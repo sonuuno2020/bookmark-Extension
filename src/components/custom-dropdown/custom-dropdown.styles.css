@@ -1,0 +1,21 @@
+
+.custom-dropdown {
+  position: relative;
+}
+.drop-title {
+  line-height: 3;
+}
+.button-selected {
+  width: 230px;
+  margin-left: 10px;
+  background-color: #8a9bc1 !important;
+}
+.drop-menu{
+  width: 230px;
+  position: absolute;
+  top: 40px;
+  right: 5px;
+  left: auto;
+  max-height: 100px;
+  overflow: auto;
+}
